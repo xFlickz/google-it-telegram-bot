@@ -1,9 +1,9 @@
 {
   "name": "google-it-telegram-bot",
-  "homepage": "https://github.com/Edgar-P-yan/google-it-telegram-bot#readme",
+  "homepage": "https://github.com/XFlickz/google-it-telegram-bot#readme",
   "main": "dist/index.js",
   "license": "MIT",
-  "bugs": "https://github.com/Edgar-P-yan/google-it-telegram-bot/issues",
+  "bugs": "https://github.com/XFlickz/google-it-telegram-bot/issues",
   "scripts": {
     "build": "rimraf dist && tsc",
     "start": "node dist/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Edgar-P-yan/google-it-telegram-bot.git"
+    "url": "https://github.com/XFlickz/google-it-telegram-bot.git"
   },
   "author": {
     "name": "Edgar Poghosyan",
