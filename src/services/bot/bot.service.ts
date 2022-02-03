@@ -77,12 +77,12 @@ export class BotService implements IBot {
         `Hi ${ctx.from.first_name} ${ctx.from.last_name || ''}! 🎉\n` +
           'I am an inline bot for searching *WEB*, *IMAGES*, *VIDEOS*.\n' +
           'Usage.\n\n' +
-          '🔎 First of all, type `@Google_itBot `, and then type anything you' +
-          'want to search. For example `@Google_itBot cats`, and it will show search results.\n' +
-          '🖼️ *Wanna search images?* Just type `images` next to it. `@Google_itBot cats images`.\n' +
-          '🎞️ *Wanna search videos?* Just type `videos` next to it. `@Google_itBot cats videos`.\n' +
+          '🔎 First of all, type `@GoogleXFlickbot `, and then type anything you' +
+          'want to search. For example `@GoogleXFlickbot cats`, and it will show search results.\n' +
+          '🖼️ *Wanna search images?* Just type `images` next to it. `@GoogleXFlickbot cats images`.\n' +
+          '🎞️ *Wanna search videos?* Just type `videos` next to it. `@GoogleXFlickbot cats videos`.\n' +
           `📤 *Wanna share the result?* Just tap on the result.\n\n` +
-          '*LET\'S DO THIS*. Type `@Google_itBot funny cats images` and share with me some images of them!',
+          '*LET\'S DO THIS*. Type `@GoogleXFlickbot funny cats images` and share with me some images of them!',
         this.markup,
       );
     };
