@@ -20,9 +20,9 @@ export class BotHelpers implements IBotHelpers {
         {
           type: 'article',
           id: '0',
-          title: 'Sorry 😕. Nothing was found.',
+          title: 'Maap 😕. Gue ga menemukannya.',
           input_message_content: {
-            message_text: 'Sorry 😕. Nothing was found.',
+            message_text: 'Maap 😕. Gue ga menemukannya.',
           },
         },
       ],
